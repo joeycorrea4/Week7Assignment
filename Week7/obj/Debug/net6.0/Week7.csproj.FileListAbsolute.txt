@@ -1,0 +1,15 @@
+C:\Users\YOSHI\OneDrive\Desktop\GAME PROGRAMMING\Week7\bin\Debug\net6.0\Week7.exe
+C:\Users\YOSHI\OneDrive\Desktop\GAME PROGRAMMING\Week7\bin\Debug\net6.0\Week7.deps.json
+C:\Users\YOSHI\OneDrive\Desktop\GAME PROGRAMMING\Week7\bin\Debug\net6.0\Week7.runtimeconfig.json
+C:\Users\YOSHI\OneDrive\Desktop\GAME PROGRAMMING\Week7\bin\Debug\net6.0\Week7.dll
+C:\Users\YOSHI\OneDrive\Desktop\GAME PROGRAMMING\Week7\bin\Debug\net6.0\Week7.pdb
+C:\Users\YOSHI\OneDrive\Desktop\GAME PROGRAMMING\Week7\obj\Debug\net6.0\Week7.csproj.AssemblyReference.cache
+C:\Users\YOSHI\OneDrive\Desktop\GAME PROGRAMMING\Week7\obj\Debug\net6.0\Week7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOSHI\OneDrive\Desktop\GAME PROGRAMMING\Week7\obj\Debug\net6.0\Week7.AssemblyInfoInputs.cache
+C:\Users\YOSHI\OneDrive\Desktop\GAME PROGRAMMING\Week7\obj\Debug\net6.0\Week7.AssemblyInfo.cs
+C:\Users\YOSHI\OneDrive\Desktop\GAME PROGRAMMING\Week7\obj\Debug\net6.0\Week7.csproj.CoreCompileInputs.cache
+C:\Users\YOSHI\OneDrive\Desktop\GAME PROGRAMMING\Week7\obj\Debug\net6.0\Week7.dll
+C:\Users\YOSHI\OneDrive\Desktop\GAME PROGRAMMING\Week7\obj\Debug\net6.0\refint\Week7.dll
+C:\Users\YOSHI\OneDrive\Desktop\GAME PROGRAMMING\Week7\obj\Debug\net6.0\Week7.pdb
+C:\Users\YOSHI\OneDrive\Desktop\GAME PROGRAMMING\Week7\obj\Debug\net6.0\Week7.genruntimeconfig.cache
+C:\Users\YOSHI\OneDrive\Desktop\GAME PROGRAMMING\Week7\obj\Debug\net6.0\ref\Week7.dll
